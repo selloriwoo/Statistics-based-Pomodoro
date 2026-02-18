@@ -11,5 +11,5 @@ JSON에 오늘 날짜만 있으면?	표본이 너무 적어서 추천값이 부�
 
 Launch the web app:
 
-[![Streamlit App](https://statistics-based-pomodoro-nz9h4pnurpaaqvrzljab5j.streamlit.app/)
+[![Streamlit App](https://statistics-based-pomodoro-nz9h4pnurpaaqvrzljab5j.streamlit.app)
 
