@@ -1,5 +1,4 @@
 # pomodoro-app
-:star:
 
 # 자동 시간 추천
 user_sessions.json이 없으면?	기본값 1500초 (25분)이 사용됨 ? 의도된 동작임
